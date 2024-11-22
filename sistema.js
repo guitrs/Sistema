@@ -18,3 +18,13 @@ if(lisatadePecas.length < 10){
 }else{
     console.log("Não tem mais espaço na lista")
 }
+
+//Caso a peça tenha um nome com quantidade inferior a 3 caracteres, informe uma mensagem de erro.
+
+let nomePeca = "Motor"
+
+if(nomePeca.length < 3){
+    console.log("Nome válido")
+}else{
+    console.log("Coloque um nome válido")
+}
