@@ -10,7 +10,7 @@ for (let index = 0; index < numeroDeAlunos; index++){
 
     if(index == 0){
         console.log("O número atual é zero")
-}
+
 
 //Se o numero for par, escreva 'par' e o número correspondente.
 
@@ -22,6 +22,6 @@ for (let index = 0; index < numeroDeAlunos; index++){
 
     }else{
         console.log("O número é ímpar")
-    }
 
     }
+}
