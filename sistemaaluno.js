@@ -25,3 +25,8 @@ for (let index = 0; index < numeroDeAlunos; index++){
 
     }
 }
+
+
+// = - atribuição
+// == - verificação de valores
+// === - verificação do valor e tipo de valor
